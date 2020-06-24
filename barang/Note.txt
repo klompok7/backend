@@ -1,0 +1,10 @@
+
+Note : 
+- Import database dengan nama database toko
+- simpan folder barang di c:\xampp\htdocs
+- jalankan apache & mysql di xampp
+- masuk browser kemudian isi url : localhost/barang
+- login user : admin , password : admin
+
+(Jika ada perubahan dalam koneksi database)
+- setting koneksi di config.php ganti username, password dan dbname nya
